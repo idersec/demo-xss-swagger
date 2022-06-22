@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/chihuynhminhpt/demo-xss-swagger/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/chihuynhminhpt/demo-xss-swagger/main/swagger.yaml",
+            "name": "Foo"
+        }
+    ]
+}
